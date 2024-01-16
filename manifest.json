@@ -1,0 +1,56 @@
+{
+  "files": {
+    "README.md": {
+      "name": "README.md",
+      "hash": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
+      "size": 1416
+    },
+    "vercel.json": {
+      "name": "vercel.json",
+      "hash": "0A911690620506F0D47EBA9F49D46DCD57D84C7D6A3BEA93BF0875DD6B374089",
+      "size": 181
+    },
+    "_config.yml": {
+      "name": "_config.yml",
+      "hash": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
+      "size": 21
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "hash": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
+      "size": 1190
+    },
+    "assets/ipsum-logo.svg": {
+      "name": "assets/ipsum-logo.svg",
+      "hash": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
+      "size": 15494
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "hash": "65056A1D6C6AAE6E3DC4626E29F4BD4B628B17A8E9CC1D3A5E8FE9F6743F306B",
+      "size": 15406
+    },
+    "FASTN/ds.ftd": {
+      "name": "FASTN/ds.ftd",
+      "hash": "24F906AE3ADDFEA3CD38E0AEAEA01801ACD57DE9D24E0E55AC8A3227B6C809CA",
+      "size": 2349
+    },
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "hash": "D81BCAD81A49FF955E1D2014A5AE703616AA44D0325B3C091E73143F8E404E07",
+      "size": 599
+    },
+    "assets/ipsum-logo-dark.svg": {
+      "name": "assets/ipsum-logo-dark.svg",
+      "hash": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
+      "size": 16202
+    },
+    "sidebar.ftd": {
+      "name": "sidebar.ftd",
+      "hash": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
+      "size": 1281
+    }
+  },
+  "zip_url": "https://github.com/avGayathri/To-Do-App/archive/a90f3cadc51d0d4c13ec812a53891d7b5a1f6ae6.zip",
+  "checksum": "C9612087DAF3ABA01EF817B0C7603257DD2A55AF0527BE9E8716923178919E97"
+}
