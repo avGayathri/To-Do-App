@@ -5,7 +5,7 @@ spacing: $ds.spaces.vertical-gap.medium
 
 -- header:
 
--- sidebar:
+-- sidesection:
 
 -- end: ds.section-column
 
@@ -191,7 +191,7 @@ border-radius.px: 100
 
 
 
--- component sidebar:
+-- component sidesection:
 
 -- ds.section-column:
 
@@ -323,4 +323,4 @@ link: /
 
 -- end: ds.section-column
 
--- end: sidebar
+-- end: sidesection
