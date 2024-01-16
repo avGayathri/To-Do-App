@@ -1,7 +1,5 @@
 -- ds.page:
 
--- ftd.desktop:
-
 -- ds.section-column:
 spacing: $ds.spaces.vertical-gap.medium
 
@@ -10,8 +8,6 @@ spacing: $ds.spaces.vertical-gap.medium
 -- sidebar:
 
 -- end: ds.section-column
-
--- end: ftd.desktop
 
 -- end: ds.page
 
