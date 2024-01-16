@@ -1,40 +1,330 @@
--- ds.page: Welcome to doc-site
+-- ds.page:
 
+-- ftd.desktop:
 
-⚡️ `doc-site` will help you create a beautiful documentation site in no time.
+-- ds.section-column:
+spacing: $ds.spaces.vertical-gap.medium
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+-- header:
 
-[Click here](https://fastn-community.github.io/doc-site/) to read doc-site
-documentation.
+-- sidebar:
 
--- ds.h3: 🚀 Fast Track 
+-- end: ds.section-column
 
-Create your first fastn [web-site](https://fastn.com/expander/hello-world/-/build/) 
-project in just 5 minutes!
-
--- ds.h3: 🌟 Whats next?
-
-Create your first page. 
-[Click here to know more](https://fastn-community.github.io/doc-site/components/page/).
-
--- ds.h3: 👀 Want to learn more?
-
-Feel free to check [our expander course](https://fastn.com/expander/) or jump
-into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
-
-
--- ds.h3: 🎯 Used by?
-
-Our all documentation sites uses this `doc-site` theme.
-
-- [fastn.com](https://fastn.com/home/)
-- [FifthTry.com](https://www.fifthtry.com/)
-
--- ds.h2: Learn fastn and become a pro?
-
-You are one click away, just check [our documentation](https://fastn.com/) and 
-dont forget to jump into our [FifthTry Discord server](https://discord.gg/bucrdvptYd).
+-- end: ftd.desktop
 
 -- end: ds.page
+
+
+
+
+
+
+
+
+
+-- boolean $menu-open: false
+
+
+
+
+-- component header:
+
+-- ds.section-row:
+;;inset: $ds.spaces.inset-square.extra-small
+;;spacing: $ds.spaces.horizontal-gap.extra-small
+;;margin: $ds.spaces.vertical-gap.extra-small
+
+-- ftd.desktop:
+
+-- ds.row:
+width: fill-container
+spacing: $ds.spaces.horizontal-gap.space-between
+background.solid: #34a8eb;;$ds.colors.background.step-2
+inset: $ds.spaces.inset-square.medium
+
+-- ds.row:
+width: hug-content
+
+-- ds.phosphor-icon-button: 
+icon: dots-nine
+link: /
+kind: tertiary
+variant: ghost
+
+-- ds.header-link: To  Do
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+width.fixed.vw: 20
+
+-- ds.phosphor-icon-button:      
+icon: magnifying-glass
+link: /
+kind: secondary
+width: full 
+icon-position: at-start
+
+-- end: ds.row
+
+-- ds.row:
+width: hug-content
+
+-- ds.phosphor-icon-button: 
+icon: gear
+link: /
+kind: tertiary 
+variant: ghost
+
+-- ds.phosphor-icon-button:
+icon: question
+link: /
+kind: tertiary
+variant: ghost
+
+-- ds.phosphor-icon-button: 
+icon: notification
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.row:
+radius: $ds.radius.round
+width.fixed.px: 40
+height.fixed.px: 40
+
+-- ftd.image:
+src: $assets.files.assets.profile-pic.png
+width: fill-container
+height: fill-container
+border-radius.px: 100
+
+-- end: ds.row
+
+-- end: ds.row
+
+-- end: ds.row
+
+-- end: ftd.desktop
+
+-- ftd.mobile:
+
+-- ds.row:
+width.fixed.vw: 96 
+;;spacing: $ds.spaces.horizontal-gap.space-between
+background.solid: #34a8eb
+;;inset: $ds.spaces.inset-square.small
+
+/-- ds.row:
+width.fixed.vw: 20 
+
+/-- ds.phosphor-icon-button: 
+icon: dots-nine
+link: /
+kind: tertiary
+variant: ghost
+
+/-- ds.header-link: To  Do
+link: /
+
+/-- end: ds.row
+
+/-- ds.row:
+width.fixed.vw: 20
+
+/-- ds.phosphor-icon-button:      
+icon: magnifying-glass
+link: /
+kind: secondary
+width: full 
+icon-position: at-start
+
+/-- end: ds.row
+
+/-- ds.row:
+width.fixed.vw: 20
+
+/-- ds.phosphor-icon-button: 
+icon: gear
+link: /
+kind: tertiary 
+variant: ghost
+
+/-- ds.phosphor-icon-button:
+icon: question
+link: /
+kind: tertiary
+variant: ghost
+
+/-- ds.phosphor-icon-button: 
+icon: notification
+link: /
+kind: tertiary
+variant: ghost 
+
+/-- ds.row:
+radius: $ds.radius.round
+width.fixed.px: 40
+height.fixed.px: 40
+
+/-- ftd.image:
+src: $assets.files.assets.profile-pic.png
+width: fill-container
+height: fill-container
+border-radius.px: 100
+
+/-- end: ds.row
+
+/-- end: ds.row
+
+-- end: ds.row
+
+-- end: ftd.mobile
+
+-- end: ds.section-row
+
+-- end: header
+
+
+
+
+
+
+
+
+
+-- component sidebar:
+
+-- ds.section-column:
+
+-- ds.column:
+inset: $ds.spaces.inset-square.small
+align-content: left
+
+-- ds.phosphor-icon-button: 
+icon: list
+link: /
+kind: tertiary
+variant: ghost
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: sun-dim
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: My Day
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: star
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: Important
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: calendar-check
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: Planned
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: user
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: Assigned to me
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: flag
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: Flagged email
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+radius: $ds.radius.zero
+align-content: left
+width.fixed.vw: 16
+border-bottom: $ds.borders.thin
+
+-- ds.phosphor-icon-button: 
+icon: house
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: Tasks
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- ds.row:
+align-content: left
+width.fixed.vw: 16
+
+-- ds.phosphor-icon-button: 
+icon: plus
+link: /
+kind: tertiary
+variant: ghost 
+
+-- ds.link: New list
+color: $ds.colors.text
+link: /
+
+-- end: ds.row
+
+-- end: ds.column
+
+-- end: ds.section-column
+
+-- end: sidebar
