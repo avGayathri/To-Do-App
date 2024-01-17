@@ -150,7 +150,7 @@ size: 24
 width: hug-content
 
 -- button.button: Add
-large: true
+medium: true
 role: secondary
 link: /
 
