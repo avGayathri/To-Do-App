@@ -4,7 +4,6 @@
 favicon: /-/avgayathri.github.io/to-do-app/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/design-system
--- fastn.dependency: fastn-community.github.io/button
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
 -- fastn.dependency: fastn-community.github.io/svg-icons

@@ -1,5 +1,5 @@
 -- import: fastn-community.github.io/svg-icons/phosphor
--- import: fastn-community.github.io/button
+
 
 -- ds.page:
 
@@ -150,9 +150,7 @@ size: 24
 -- ds.row:
 width: hug-content
 
--- button.button: Add
-medium: true
-role: secondary
+-- ds.secondary-button: Add
 link: /
 
 -- end: ds.row
