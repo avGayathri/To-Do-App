@@ -194,13 +194,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: sun-dim
-link: /
+link: index.html#my-day
 kind: tertiary
 variant: ghost 
 
 -- ds.link: My Day
 color: $ds.colors.text
-link: /
+link: index.html#my-day
 
 -- end: ds.row
 
@@ -210,13 +210,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: star
-link: /important
+link: index.html#important
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Important
 color: $ds.colors.text
-link: /important
+link: index.html#important
 
 -- end: ds.row
 
@@ -226,13 +226,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: calendar-check
-link: /planned
+link: index.html#planned
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Planned
 color: $ds.colors.text
-link: /planned
+link: index.html#planned
 
 -- end: ds.row
 
@@ -242,13 +242,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: user
-link: /assign
+link: index.html#assign
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Assigned to me
 color: $ds.colors.text
-link: /assign
+link: index.html#assign
 
 -- end: ds.row
 
@@ -258,13 +258,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: flag
-link: /flagged
+link: index.html#flagged
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Flagged email
 color: $ds.colors.text
-link: /flagged
+link: index.html#flagged
 
 -- end: ds.row
 
@@ -276,13 +276,13 @@ border-bottom: $ds.borders.thin
 
 -- ds.phosphor-icon-button: 
 icon: house
-link: /tasks
+link: index.html#tasks
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Tasks
 color: $ds.colors.text
-link: /tasks
+link: index.html#tasks
 
 -- end: ds.row
 
