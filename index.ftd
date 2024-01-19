@@ -43,13 +43,6 @@ spacing: $ds.spaces.horizontal-gap.space-between
 -- ds.row:
 width: hug-content
 
-/-- ds.phosphor-icon-button: 
-icon: dots-nine
-link: /
-kind: tertiary
-variant: ghost
-
-
 -- phosphor.regular: dots-nine
 size: 40
 ;;link: /
@@ -194,13 +187,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: sun-dim
-link: index.html#my-day
+link: /my-day;;index.html#my-day
 kind: tertiary
 variant: ghost 
 
 -- ds.link: My Day
 color: $ds.colors.text
-link: index.html#my-day
+link: /my-day;;index.html#my-day
 
 -- end: ds.row
 
@@ -210,13 +203,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: star
-link: index.html#important
+link: /important;;index.html#important
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Important
 color: $ds.colors.text
-link: index.html#important
+link: /important;;index.html#important
 
 -- end: ds.row
 
@@ -226,13 +219,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: calendar-check
-link: index.html#planned
+link: /planned;;index.html#planned
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Planned
 color: $ds.colors.text
-link: index.html#planned
+link: /planned;;index.html#planned
 
 -- end: ds.row
 
@@ -242,13 +235,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: user
-link: index.html#assign
+link: /assign;;index.html#assign
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Assigned to me
 color: $ds.colors.text
-link: index.html#assign
+link: /assign;;index.html#assign
 
 -- end: ds.row
 
@@ -258,13 +251,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: flag
-link: index.html#flagged
+link: /flagged;;index.html#flagged
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Flagged email
 color: $ds.colors.text
-link: index.html#flagged
+link: /flagged;;index.html#flagged
 
 -- end: ds.row
 
@@ -276,13 +269,13 @@ border-bottom: $ds.borders.thin
 
 -- ds.phosphor-icon-button: 
 icon: house
-link: index.html#tasks
+link: /tasks;;index.html#tasks
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Tasks
 color: $ds.colors.text
-link: index.html#tasks
+link: /tasks;;index.html#tasks
 
 -- end: ds.row
 
