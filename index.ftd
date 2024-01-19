@@ -1,20 +1,21 @@
--- import: fastn-community.github.io/svg-icons/phosphor
-
 
 -- ds.page:
 
--- ds.section-column:
-spacing: $ds.spaces.vertical-gap.medium
-
 -- header:
+
+-- ds.section-row:
+flush: full
+align-content: top-center
+inset: $ds.spaces.inset-square.small
+spacing: $ds.spaces.horizontal-gap.small
 
 -- sidesection:
 
 -- suggestions:
 
--- add-task:
+-- end: ds.section-row
 
--- end: ds.section-column
+;;-- add-task:
 
 -- end: ds.page
 
@@ -30,12 +31,14 @@ spacing: $ds.spaces.vertical-gap.medium
 -- component header:
 
 -- ds.section-row:
+flush: full
+inset: $ds.spaces.inset-wide.large
+outer-background.solid: #34a8eb
 
 -- ds.row:
 width: fill-container
 spacing: $ds.spaces.horizontal-gap.space-between
-background.solid: #34a8eb;;$ds.colors.background.step-2
-inset: $ds.spaces.inset-square.medium
+
 
 -- ds.row:
 width: hug-content
@@ -49,6 +52,7 @@ variant: ghost
 
 -- phosphor.regular: dots-nine
 size: 40
+;;link: /
 
 -- ds.header-link: To  Do
 link: /
@@ -58,7 +62,7 @@ link: /
 -- ds.row:
 width.fixed.vw: 20
 
--- ds.phosphor-icon-button:      
+-- ds.phosphor-icon-button: | search our library     
 icon: magnifying-glass
 link: /
 kind: secondary
@@ -174,6 +178,7 @@ link: /
 -- ds.section-column:
 
 -- ds.column:
+width.fixed.vw: 20
 inset: $ds.spaces.inset-square.small
 align-content: left
 
@@ -205,13 +210,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: star
-link: /
+link: /important
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Important
 color: $ds.colors.text
-link: /
+link: /important
 
 -- end: ds.row
 
@@ -221,13 +226,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: calendar-check
-link: /
+link: /planned
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Planned
 color: $ds.colors.text
-link: /
+link: /planned
 
 -- end: ds.row
 
@@ -237,13 +242,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: user
-link: /
+link: /assign
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Assigned to me
 color: $ds.colors.text
-link: /
+link: /assign
 
 -- end: ds.row
 
@@ -253,13 +258,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: flag
-link: /
+link: /flagged
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Flagged email
 color: $ds.colors.text
-link: /
+link: /flagged
 
 -- end: ds.row
 
@@ -271,13 +276,13 @@ border-bottom: $ds.borders.thin
 
 -- ds.phosphor-icon-button: 
 icon: house
-link: /
+link: /tasks
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Tasks
 color: $ds.colors.text
-link: /
+link: /tasks
 
 -- end: ds.row
 
@@ -399,3 +404,11 @@ size: 30
 -- end: ds.row
 
 -- end: task
+
+
+
+
+
+
+
+
