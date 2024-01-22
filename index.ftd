@@ -187,13 +187,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: sun-dim
-link: /my-day;;index.html#my-day
+link: my-day/;;index.html#my-day
 kind: tertiary
 variant: ghost 
 
 -- ds.link: My Day
 color: $ds.colors.text
-link: /my-day;;index.html#my-day
+link: my-day/;;index.html#my-day
 
 -- end: ds.row
 
@@ -203,13 +203,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: star
-link: /important;;index.html#important
+link: important/;;index.html#important
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Important
 color: $ds.colors.text
-link: /important;;index.html#important
+link: important/;;index.html#important
 
 -- end: ds.row
 
