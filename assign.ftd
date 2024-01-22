@@ -24,7 +24,7 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
-color: #f54275
+;;color: #f54275
 
 -- phosphor.regular: user
 size: 32

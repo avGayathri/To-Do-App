@@ -24,7 +24,7 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
-color: #42a1f5
+;;color: #42a1f5
 
 -- phosphor.regular: star
 size: 32

@@ -24,7 +24,7 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
-color: #fc3030
+;;color: #fc3030
 
 -- phosphor.regular: flag
 size: 32
