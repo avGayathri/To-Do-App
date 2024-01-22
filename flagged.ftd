@@ -24,10 +24,10 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
+color: #fc3030
 
 -- phosphor.regular: flag
 size: 32
-color: #fc3030
 
 -- ds.heading-medium: Flagged email
 color: #fc3030

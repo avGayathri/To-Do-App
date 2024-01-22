@@ -24,10 +24,10 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
+color: #42f59c
 
 -- phosphor.regular: check-fat
 size: 32
-color: #42f59c
 
 -- ds.heading-medium: Planned
 color: #42f59c

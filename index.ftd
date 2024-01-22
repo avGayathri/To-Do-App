@@ -187,13 +187,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: sun-dim
-link: my-day/;;index.html#my-day
+link: my-day/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: My Day
 color: $ds.colors.text
-link: my-day/;;index.html#my-day
+link: my-day/
 
 -- end: ds.row
 
@@ -203,13 +203,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: star
-link: important/;;index.html#important
+link: important/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Important
 color: $ds.colors.text
-link: important/;;index.html#important
+link: important/
 
 -- end: ds.row
 
@@ -219,13 +219,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: calendar-check
-link: /planned;;index.html#planned
+link: planned/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Planned
 color: $ds.colors.text
-link: /planned;;index.html#planned
+link: planned/
 
 -- end: ds.row
 
@@ -235,13 +235,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: user
-link: /assign;;index.html#assign
+link: assign/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Assigned to me
 color: $ds.colors.text
-link: /assign;;index.html#assign
+link: assign/
 
 -- end: ds.row
 
@@ -251,13 +251,13 @@ width.fixed.vw: 16
 
 -- ds.phosphor-icon-button: 
 icon: flag
-link: /flagged;;index.html#flagged
+link: flagged/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Flagged email
 color: $ds.colors.text
-link: /flagged;;index.html#flagged
+link: flagged/
 
 -- end: ds.row
 
@@ -269,13 +269,13 @@ border-bottom: $ds.borders.thin
 
 -- ds.phosphor-icon-button: 
 icon: house
-link: /tasks;;index.html#tasks
+link: tasks/
 kind: tertiary
 variant: ghost 
 
 -- ds.link: Tasks
 color: $ds.colors.text
-link: /tasks;;index.html#tasks
+link: tasks/
 
 -- end: ds.row
 

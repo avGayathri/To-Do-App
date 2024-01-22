@@ -24,10 +24,10 @@ height.fixed.vw: 45
 -- ds.row:
 radius: $ds.radius.zero
 align-content: left
+color: #4b95bd
 
 -- phosphor.regular: house
 size: 32
-color: #4b95bd
 
 -- ds.heading-medium: Tasks
 color: #4b95bd
