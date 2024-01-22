@@ -42,7 +42,7 @@
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_important_": {
       "name": "_fastn_To-Do-App/avgayathri.github.io_to-do-app_important_",
-      "checksum": "3F2C178BC1C697BD14DDE80E7267B5198CBB67214AD30D7756DE4741E90D0288",
+      "checksum": "7ED0827B13FDDE79BFACCF0B248E84412D7BBDA18BBE1CB22A63D9BE9455BA94",
       "size": 7599
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_planned_": {
@@ -212,8 +212,8 @@
     },
     "assign.ftd": {
       "name": "assign.ftd",
-      "checksum": "1D03C08188B76EC6DF6D2095A7A5C1B2DA486C03A17E4D80ECE2BFB5641B7338",
-      "size": 1006
+      "checksum": "0019FEBAC5034769D496594856899A66259B177481E2DEFD5DD63586CCD29D2C",
+      "size": 1008
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -222,18 +222,18 @@
     },
     "flagged.ftd": {
       "name": "flagged.ftd",
-      "checksum": "11C655BD7B0D6663637FE69944D1D5160FE4994B48A8B95E7B1E2F010C5C8375",
-      "size": 1013
+      "checksum": "FBB63161FFCF0DAE00AADAB73759EE30D5769EB39C764CE1D7BDC58E8FF2724C",
+      "size": 1015
     },
     "important.ftd": {
       "name": "important.ftd",
-      "checksum": "3EE0B31D18E278E92F37791960C0356B51BDC6C692332CDA49812ECCD93F3E19",
-      "size": 998
+      "checksum": "9687B6FB3CC4398E045EE9A2BB1B46DB1624E902666DEEE37AEDFC5144199EAF",
+      "size": 1001
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "05952DFBEDECB66F447D422967F005F455DDA31F7E8530571C878BE6DC309670",
-      "size": 5106
+      "checksum": "305100D80D20B9E1B59073D5EF46F53D399D5A260BBF29D8ECB65BC36F574697",
+      "size": 4870
     },
     "my-day.ftd": {
       "name": "my-day.ftd",
@@ -242,13 +242,13 @@
     },
     "planned.ftd": {
       "name": "planned.ftd",
-      "checksum": "20D447DEE195103A3FF208AAC7E6D78BF7172A753F3FB94176FB386FACF11301",
-      "size": 1010
+      "checksum": "E5720911BAFF09E45E153A57CAEBC1C1AE1B41EC0D3E13C86C1B621C53F951D6",
+      "size": 1012
     },
     "tasks.ftd": {
       "name": "tasks.ftd",
-      "checksum": "34BDAB4C9F45376D5D42A600410E22423E635DD2CBECC7D311E8537A1625F7F9",
-      "size": 1032
+      "checksum": "4E028C63E4200AF52012DB2E70A7B9DCAFD395A66469022EA8F334B28E6B5A4C",
+      "size": 1034
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -256,6 +256,6 @@
       "size": 181
     }
   },
-  "zip_url": "https://github.com/avGayathri/To-Do-App/archive/e2a61fd78cc6ee4ea6ff7a57db7e53f6a6d81220.zip",
-  "checksum": "0272DC998A648CCD39810136FA430BDD72CEC2FC4F077E40A866EE8514999AE9"
+  "zip_url": "https://github.com/avGayathri/To-Do-App/archive/8d037b66cefed0c2358fcc4742768fd931b9042f.zip",
+  "checksum": "422C840819836A0121AAA9E2E3B27CE00648573ECE72E25AF1B085A77758B06C"
 }
