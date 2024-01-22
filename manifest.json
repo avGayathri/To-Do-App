@@ -22,7 +22,7 @@
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_": {
       "name": "_fastn_To-Do-App/avgayathri.github.io_to-do-app_",
-      "checksum": "C9668CC2F0F74A7B2AA21A20A22080C5C2EE59E768465D159ADEDBC5582BCD89",
+      "checksum": "81CCAB049AE3393239D274ED44AB341F4D1351DCC3272ED25731FE87E26C9A79",
       "size": 39586
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_assets": {
@@ -42,8 +42,13 @@
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_important_": {
       "name": "_fastn_To-Do-App/avgayathri.github.io_to-do-app_important_",
-      "checksum": "7ED0827B13FDDE79BFACCF0B248E84412D7BBDA18BBE1CB22A63D9BE9455BA94",
-      "size": 7599
+      "checksum": "870BEAF29826CEC9E58554505A1F6E4BFEAE951109CB4CEE72D3FFBBDEECBC22",
+      "size": 7412
+    },
+    "_fastn_To-Do-App/avgayathri.github.io_to-do-app_my-day_": {
+      "name": "_fastn_To-Do-App/avgayathri.github.io_to-do-app_my-day_",
+      "checksum": "E7ECDB79D772EEFEDB53D6ADFEAD60FB6A9A9B5BD1939A0F4B487B34DA464FEF",
+      "size": 9449
     },
     "_fastn_To-Do-App/avgayathri.github.io_to-do-app_planned_": {
       "name": "_fastn_To-Do-App/avgayathri.github.io_to-do-app_planned_",
@@ -237,8 +242,8 @@
     },
     "my-day.ftd": {
       "name": "my-day.ftd",
-      "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
-      "size": 0
+      "checksum": "02BFB1FB69F10FCC7D788255472293228BFD2D257C037D05F4233E9AABBF3A46",
+      "size": 1264
     },
     "planned.ftd": {
       "name": "planned.ftd",
@@ -256,6 +261,6 @@
       "size": 181
     }
   },
-  "zip_url": "https://github.com/avGayathri/To-Do-App/archive/8d037b66cefed0c2358fcc4742768fd931b9042f.zip",
-  "checksum": "422C840819836A0121AAA9E2E3B27CE00648573ECE72E25AF1B085A77758B06C"
+  "zip_url": "https://github.com/avGayathri/To-Do-App/archive/72d2313ecd65066717457c223b52e3141b388b5d.zip",
+  "checksum": "401F421715F5DDD162208F825C27855F19D523237CCEB738BEADAA4A00757911"
 }
